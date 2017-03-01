@@ -1,0 +1,23 @@
+﻿.tw{
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 0 0 1px #fff inset, 0 0 4px 1px rgba(128,128,128,0.2) inset;
+    padding: 5px;
+    margin: 1px 1px 3px;
+    border-right: 3px solid #b30f0f;
+}
+.twcr {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 0 0 1px #fff inset, 0 0 4px 1px rgba(128,128,128,0.2) inset;
+    padding: 5px;
+    margin: 1px 1px 3px;
+    border-right: 3px solid #b30f0f;
+    float: right;
+    margin: auto;
+    margin: auto;
+    margin-right: 30px;
+    border-left: 3px solid #b30f0f;
+}
