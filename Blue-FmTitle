@@ -1,0 +1,24 @@
+﻿.fm-title {
+    padding: 5px 0px;
+    line-height: 30px;
+    background-color: #4b99dd;
+    text-align: center;
+    color: #fff;
+    font-size: 17px;
+    font-weight: normal;
+    margin: 0px;
+    border-radius: 5px 5px 0 0;
+}
+  
+.fm-title a {
+    color: #fff;
+    font-size: 12px;
+font-family: Tahoma;
+font-weight: bold;
+}
+  
+.paddss {
+    background-color: #f2f2f2;
+    margin: 0 0 30px;
+    border-radius: 0 0 5px 5px;
+}
